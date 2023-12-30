@@ -2,7 +2,7 @@
 
 Rusherhack plugin to measure speed over long distances
 
-This is intended to measure long distance travel on highways, to estimate how long it will take to get to a specific waypoint.
+This is intended to measure long distance travel on highways by measuring the distance between two points and the time it takes to travel between them.
 Can also estimate how long a given distance will take to travel at the last measured speed.
 
 ## Install
