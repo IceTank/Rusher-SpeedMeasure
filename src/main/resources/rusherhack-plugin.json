@@ -1,10 +1,10 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
-  "Name": "Example Plugin",
+  "Plugin-Class": "org.ic3tank.SpeedMeasurePlugin",
+  "Name": "SpeedMeasurePlugin",
   "Version": "${plugin_version}",
-  "Description": "Example rusherhack plugin",
+  "Description": "Speed Measuring Plugin",
   "Authors": [
-    "John200410"
+    "Ic3Tank"
   ],
   "Minecraft-Versions": [
     "1.20.1"

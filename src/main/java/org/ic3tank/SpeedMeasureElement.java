@@ -1,4 +1,4 @@
-package org.example;
+package org.ic3tank;
 
 import org.rusherhack.client.api.feature.hud.ResizeableHudElement;
 import org.rusherhack.client.api.render.RenderContext;
@@ -11,11 +11,11 @@ import org.rusherhack.client.api.render.graphic.TextureGraphic;
  *
  * @author John200410
  */
-public class ExampleHudElement extends ResizeableHudElement {
+public class SpeedMeasureElement extends ResizeableHudElement {
 	
 	private TextureGraphic graphic = null;
 	
-	public ExampleHudElement() {
+	public SpeedMeasureElement() {
 		super("ExampleHudElement");
 		
 		//try loading graphic
